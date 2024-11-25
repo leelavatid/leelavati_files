@@ -1,4 +1,4 @@
-package basicsofjava;
+package org.tnsif.capgemini.c2tc.basicsofjava;
 
 public class ReturnDemo {
     static int multiplication(int a,int b)
