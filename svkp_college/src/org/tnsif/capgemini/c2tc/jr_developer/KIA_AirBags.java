@@ -1,4 +1,4 @@
-package org.tnsif.capgemini.c2tc.Jr_Developer;
+package org.tnsif.capgemini.c2tc.jr_developer;
 
 public class KIA_AirBags {
 	public void disp_AirBags()

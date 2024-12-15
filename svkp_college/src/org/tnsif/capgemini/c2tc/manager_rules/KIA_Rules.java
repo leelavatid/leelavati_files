@@ -1,4 +1,4 @@
-package org.tnsif.capgemini.c2tc.Manager_Rules;
+package org.tnsif.capgemini.c2tc.manager_rules;
 
 public class KIA_Rules {
 
